@@ -44,7 +44,7 @@ To run the project:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/Customer-Churn-Prediction.git
+    git clone https://github.com/kazmi10/Customer-Churn-Prediction.git
     ```
 2. Navigate to the project directory:
     ```bash
